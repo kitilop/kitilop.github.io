@@ -50,3 +50,16 @@ Stattdessen gibt es einen gemeinsamen Ethik- oder Philosophieunterricht, in dem 
 
 Regelmäßig sollen deutschlandweit Schulprüfungen stattfinden.
 Dies sorgt für fairere Noten und erlaubt es Abschlüsse miteinander zu vergleichen.
+
+## Verkehr
+
+### Kostenloser/kostengünstiger ÖPNV
+
+Bus und Bahn sind umweltfreundlich und platzsparend.
+Deswegen soll die Nutzung dieser Verkehrsmittel im größeren Umfeld des Wohnortes und des Arbeitsplatzes kostenfrei sein.
+Um eine Überlastung zu vermeiden, ist der Preis schrittweise anzupassen.
+Langstrecken sollen deutlich günstiger und deutlich flexibler sein.
+
+### Tempolimit
+
+Ein Tempolimit sorgt für umweltfreundlicheres, sichereres, leiseres und entspannteres Fahren.
