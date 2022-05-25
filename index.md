@@ -98,9 +98,3 @@ Sowohl das Verkaufen als auch das Erstellen von Fake-Reviews soll verboten werde
 
 Staatliche Kontrollen in der Lebensmittelindustrie und in der Gastronomie sollen verschärft und häufiger durchgeführt werden.
 Ergebnisse dieser Kontrollen sollen öffentlich zugänglich sein.
-
-### Verbesserung des Nutri-Scores
-
-Der Nutri-Score erlaubt es, Lebensmittel innerhalb einer Produktkategorie hinsichtlich der Nährwerte schnell miteinander zu vergleichen.
-Da die Produktkategorie dabei nicht angegeben werden muss, erscheint der Nutri-Score oft widersprüchlich, weil ungesunde Lebensmittel, die etwas gesünder als andere Lebensmittel ihrer Kategorie sind, einen guten Score erhalten können.
-Deswegen soll die Produktkategorie zukünftig ebenfalls angegeben werden müssen.
