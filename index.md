@@ -1,5 +1,18 @@
 # Politische Vision
 
+## Arbeit und Soziales
+
+### Bedingungsloses Grundeinkommen
+
+Ein Grundeinkommen soll eingeführt werden, dass unabhängig vom Berufsstatus ausgezahlt wird.
+Dieses ersetzt sonstige Sozialleistungen wie Hartz-IV, Wohngeld oder BAföG, wodurch enormer Verwaltungsaufwand entfällt.
+
+### Sonderbehandlung von geringfügiger Beschäftigung abschaffen
+
+Harte Grenzen zwischen Minijob, Midijob und nicht geringfügiger Beschäftigung sollen abgeschafft werden.
+Steuern und Sozialabgaben sollen gemeinsam mit dem Gehalt ansteigen, ohne dass es harte Grenzen gibt.
+Es darf nicht passieren, dass bei höherem Bruttolohn der Nettolohn sinkt, weil beispielsweise eine Krankenversicherung notwendig wird.
+
 ## Gesundheit
 
 ### Private Krankenkassen abschaffen
@@ -24,6 +37,11 @@ Gleichzeitig soll der Zuschuss, den Krankenkassen für Brillen zahlen, erhöht w
 
 Die Zeitumstellung muss abgeschafft werden, da sie kaum positive, jedoch viele negative Effekte hat.
 Die Normalzeit / Winterzeit / Mitteleuropäische Zeit ist dabei der Sommerzeit / Osteuropäischen Zeit vorzuziehen, da erstere besser auf den Sonnenstand abgestimmt ist und damit der inneren Uhr des Menschen besser entspricht.
+
+### Beschneidungen von Kindern verbieten
+
+Die Beschneidung aus religiösen Gründen verletzt das Recht auf körperliche Unversehrtheit des Kindes.
+Eine unumkehrbare Verstümmelung des Kindes wird nicht durch die Religion der Eltern gerechtfertigt.
 
 ## Schule und Bildung
 
@@ -81,7 +99,7 @@ Die Kosten muss weiterhin der Hersteller tragen.
 
 ### Kontakt-E-Mail-Pflicht
 
-Websites, über die Kunden Waren oder Dienstleistungen kaufen können, müssen gut sichtbar eine E-Mail-Adresse angeben über die Kunden beispielsweise Widersprüche einreichen und Garantie-/Gewährleistungansprüche übermitteln können.
+Websites, über die Kunden Waren oder Dienstleistungen kaufen können, müssen gut sichtbar eine E-Mail-Adresse angeben über die Kunden beispielsweise Widersprüche einreichen und Garantie-/Gewährleistungsansprüche übermitteln können.
 Dadurch kann der Kontakt außerhalb von üblichen Arbeitszeiten aufgenommen werden, alle Absprachen liegen schriftlich vor und Warteschleifen werden vermeiden.
 
 ### Keine Verschleierung der Gesamtkosten
@@ -98,3 +116,35 @@ Sowohl das Verkaufen als auch das Erstellen von Fake-Reviews soll verboten werde
 
 Staatliche Kontrollen in der Lebensmittelindustrie und in der Gastronomie sollen verschärft und häufiger durchgeführt werden.
 Ergebnisse dieser Kontrollen sollen öffentlich zugänglich sein.
+
+### Erwartungswert bei Gewinnspielen
+
+Bei Gewinnspielen soll neben der Chance auf den Hauptgewinn auch der durchschnittliche Verlust pro Spiel erkenntlich sein.
+Beides soll bei jeglicher Gewinnspielwerbung sowie bei der Gewinnspielteilnahme klar kommuniziert werden.
+
+## Justiz
+
+### Unabhängigkeit der Staatsanwaltschaft
+
+Staatsanwälte in Deutschland sind weisungsgebunden, sie sind Teil der Behördenhierarchie.
+Das Justizministerium kann so Strafverfolgungsmaßnahmen unterbinden, was die Gewaltenteilung zwischen Exekutive und Judikative verletzt.
+Deswegen dürfen deutsche Staatsanwälte keine europäischen Haftbefehle ausstellen.
+Diese Weisungsgebundenheit muss aufgehoben werden.
+
+### Whistleblower schützen
+
+Whistleblower sollen besonderen Schutz genießen.
+Gesetze müssen so angepasst werden, dass das Aufdecken von Menschenrechtsverletzungen, Korruption oder ähnlichem nicht zu Nachteilen für den Aufdeckenden führen.
+Whistleblower wie Edward Snowden oder Julien Assange sollen Asyl erhalten können.
+
+### Wiederaufnahme nach Freispruch
+
+Aufgrund mangelnder Beweislage kommt es vor, dass Straftäter freigesprochen werden.
+Wenn neue Beweise oder Beweisverfahren nach Freispruch eines Angeklagten vorliegen oder verfügbar werden, können Verfahren bisher nur bei Mord, Völkermord, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen neu aufgerollt werden.
+Diese Liste soll stark erweitert werden, sodass unter anderem auch Verfahren wegen sexuellem Missbrauch, Vergewaltigung, Totschlag, schwerer Körperverletzung und Menschenhandel wiederaufgenommen werden können.
+
+### Polizei- und Überwachungsgesetze
+
+Gesetzen, die es ermöglichen, dass Polizei oder Geheimdienste die Rechte von Menschen verletzen, soll ein enger Rahmen auf Bundesebene angelegt werden.
+Es sollen Statistiken darüber geführt werden, wie effektiv solche Gesetze sind.
+Regelmäßig müssen ineffektive Polizei- und Überwachungsgesetze abgeschafft werden.
