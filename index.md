@@ -4,7 +4,7 @@
 
 ### Bedingungsloses Grundeinkommen
 
-Ein Grundeinkommen soll eingeführt werden, dass unabhängig vom Berufsstatus ausgezahlt wird.
+Ein Grundeinkommen soll eingeführt werden, das unabhängig vom Berufsstatus ausgezahlt wird.
 Dieses ersetzt sonstige Sozialleistungen wie Hartz-IV, Wohngeld oder BAföG, wodurch enormer Verwaltungsaufwand entfällt.
 
 ### Sonderbehandlung von geringfügiger Beschäftigung abschaffen
@@ -60,14 +60,14 @@ Wasserspender sind ebenfalls aufzustellen.
 
 ### Ethik- oder Philosophie- statt Religionsunterricht
 
-Unterrichtet werden soll nur, was wahr ist.
+Unterrichtet werden soll nur, was wissenschaftlich anerkannt ist.
 Unterricht, der Glaubenslehren als Fakten darstellt, ist deswegen abzuschaffen.
 Stattdessen gibt es einen gemeinsamen Ethik- oder Philosophieunterricht, in dem unter anderem die größten Weltreligionen neutral behandelt werden.
 
 ### Deutschlandweite Schulprüfungen
 
 Regelmäßig sollen deutschlandweit Schulprüfungen stattfinden.
-Dies sorgt für fairere Noten und erlaubt es Abschlüsse miteinander zu vergleichen.
+Dies sorgt für fairere Noten und erlaubt es, Abschlüsse miteinander zu vergleichen.
 
 ## Verkehr
 
@@ -75,7 +75,7 @@ Dies sorgt für fairere Noten und erlaubt es Abschlüsse miteinander zu vergleic
 
 Bus und Bahn sind umweltfreundlich und platzsparend.
 Deswegen soll die Nutzung dieser Verkehrsmittel im größeren Umfeld des Wohnortes und des Arbeitsplatzes kostenfrei sein.
-Um eine Überlastung zu vermeiden, ist der Preis schrittweise anzupassen.
+Um eine Überlastung zu vermeiden, ist der Preis über einen längeren Zeitraum schrittweise zu verringern, während der ÖPNV ausgebaut wird.
 Langstrecken sollen deutlich günstiger und deutlich flexibler sein.
 
 ### Tempolimit
@@ -86,31 +86,31 @@ Ein Tempolimit sorgt für umweltfreundlicheres, sichereres, leiseres und entspan
 
 ### Personalisierte Werbung verbieten
 
-Internetnutzer werden permanent digital verfolgt um Interessenprofile anzulegen über die zielgerichtet Werbung angezeigt werden kann.
+Internetnutzer werden permanent digital verfolgt, um Interessenprofile anzulegen, über die zielgerichtet Werbung angezeigt werden kann.
 Die Daten, die dabei anfallen, verletzen die Privatsphäre in höchstem Maße.
 Websiteübergreifendes Tracking zur Erstellung von Werbeprofilen muss deswegen abgeschafft werden.
 
 ### Unabhängige Vergabe von Produktstudien
 
-Produktstudien, die beispielsweise für Werbung eingesetzt werden ("95% weniger Pickel nach zweiwöchiger Anwendung"), werden von den Produktherstellern oft direkt an Forschungseinrichtungen vergeben.
+Produktstudien, die beispielsweise für Werbung eingesetzt werden („95 % weniger Pickel nach zweiwöchiger Anwendung“), werden von den Produktherstellern oft direkt an Forschungseinrichtungen vergeben.
 Dies sorgt für ein Dilemma: Sind die Studienergebnisse negativ, werden zukünftig eher andere Einrichtungen ausgewählt.
 Um die Unabhängigkeit solcher Studien zu gewährleisten, soll zukünftig eine unabhängige Instanz die Vergabe übernehmen.
 Die Kosten muss weiterhin der Hersteller tragen.
 
 ### Kontakt-E-Mail-Pflicht
 
-Websites, über die Kunden Waren oder Dienstleistungen kaufen können, müssen gut sichtbar eine E-Mail-Adresse angeben über die Kunden beispielsweise Widersprüche einreichen und Garantie-/Gewährleistungsansprüche übermitteln können.
+Websites, über die Kunden Waren oder Dienstleistungen kaufen können, müssen gut sichtbar eine E-Mail-Adresse angeben, über die Kunden beispielsweise Widersprüche einreichen und Garantie-/Gewährleistungsansprüche übermitteln können.
 Dadurch kann der Kontakt außerhalb von üblichen Arbeitszeiten aufgenommen werden, alle Absprachen liegen schriftlich vor und Warteschleifen werden vermeiden.
 
 ### Keine Verschleierung der Gesamtkosten
 
 Weder beim Kauf noch bei der Werbung dürfen wesentliche Informationen über den Preis eines Produkts im Kleingedruckten versteckt werden.
 Ein Smartphone darf beispielsweise nicht mit einem Kaufpreis von einem Euro beworben werden, wenn ein kostenpflichtiger Vertrag abgeschlossen werden muss.
-Ein Internetvertrag darf nicht mit monatlichen Kosten von 10€ beworben werden, wenn der Preis nach 3 Monaten während der Mindestvertragslaufzeit auf 35€ steigt.
+Ein Internetvertrag darf nicht mit monatlichen Kosten von 10 € beworben werden, wenn der Preis nach 3 Monaten während der Mindestvertragslaufzeit auf 35 € steigt.
 
-### Fake Reviews
+### Gefälschte Bewertungen
 
-Sowohl das Verkaufen als auch das Erstellen von Fake-Reviews soll verboten werden.
+Sowohl das Verkaufen als auch das Erstellen von gefälschten Bewertungen, beispielsweise auf Online-Verkaufsplattformen, soll verboten werden.
 
 ### Häufige Lebensmittelkontrollen
 
@@ -121,6 +121,11 @@ Ergebnisse dieser Kontrollen sollen öffentlich zugänglich sein.
 
 Bei Gewinnspielen soll neben der Chance auf den Hauptgewinn auch der durchschnittliche Verlust pro Spiel erkenntlich sein.
 Beides soll bei jeglicher Gewinnspielwerbung sowie bei der Gewinnspielteilnahme klar kommuniziert werden.
+
+### Kundentoiletten (neu!)
+
+Kaufhäuser und Geschäfte ab einer bestimmten Größe sollen Kundentoiletten kostenlos anbieten müssen.
+Dabei kann zunächst ein Entgelt gefordert werden, wenn dann ein Gutschein in entsprechender Höhe ausgegeben wird.
 
 ## Justiz
 
@@ -148,3 +153,49 @@ Diese Liste soll stark erweitert werden, sodass unter anderem auch Verfahren weg
 Gesetzen, die es ermöglichen, dass Polizei oder Geheimdienste die Rechte von Menschen verletzen, soll ein enger Rahmen auf Bundesebene angelegt werden.
 Es sollen Statistiken darüber geführt werden, wie effektiv solche Gesetze sind.
 Regelmäßig müssen ineffektive Polizei- und Überwachungsgesetze abgeschafft werden.
+
+### Dashcams für Rettungskräfte (neu!)
+
+Zum Schutz von Rettungskräften und zur Verfolgung von rechtswidrigem Verhalten sollen Rettungsfahrzeuge grundsätzlich mit Dashcams ausgestattet werden.
+Nach Einsätzen werden die Aufzeichnungen von geschultem Personal überprüft.
+Dadurch können Vergehen wie beispielsweise das Nichtbilden oder Befahren einer Rettungsgasse, die Behinderung von Rettungskräften oder das Fotografieren von Unfallopfern schnell und effizient geahndet werden.
+
+### Bußgeld gehaltsabhängig (neu!)
+
+Wenn die Strafe für ein Vergehen ein Bußgeld ist, gilt das Gesetz nur für arme Menschen.
+Um dies zu verhindern, sollen Bußgelder von Eigentum und Einkommen abhängig sein.
+
+## Digitales
+
+### Staatliche Software (neu!)
+
+Software, die der Staat einsetzt, soll in der Regel quelloffen (Open Source) sein, wie es beispielsweise bei der Corona-Warn-App der Fall ist.
+Dies schafft Vertrauen, da Prozesse offen gelegt werden.
+Da viele den Quellcode unabhängig überprüfen können, wird staatliche Software sicherer.
+
+### Digitale Behörden (neu!)
+
+Abläufe in Behörden sollen so digital wie möglich gestaltet werden.
+Dadurch können Prozesse schneller, effizienter und günstiger durchgeführt werden.
+Mithilfe einer Online-Plattform sollen Bürger möglichst viele Behördengänge von Zuhause aus erledigen können.
+Statt Fax sollen verschlüsselte und signierte E-Mails eingesetzt werden.
+
+## Politik
+
+### Ersatzstimme (neu!)
+
+Stimmen, die für Kleinparteien abgegeben werden, gehen verloren, wenn die Partei an der 5%-Hürde scheitert.
+Eine Ersatzstimme würde Abhilfe schaffen können: Wenn die Hauptstimme eine Partei ist, die die 5%-Hürde nicht erreicht, so geht die Stimme an die Ersatzstimme.
+So werden Wähler besser repräsentiert, die eigentlich eine Kleinpartei favorisieren.
+
+### Wahlcomputer (neu!)
+
+Zur einfachen und schnellen Auszählung von Wahlen sollen Wahlcomputer eingesetzt werden.
+Um Stimmenfälschungen zu vermeiden, soll nach Stimmabgabe ein Wahlzettel ausgedruckt werden, den der Wähler überprüfen und in die Wahlurne geben muss.
+Erst dann ist die Wahl gültig.
+Dadurch können komplexere Wahlverfahren schneller und weniger fehleranfällig ausgewertet werden.
+
+### Verbesserung der EU (neu!)
+
+Die EU soll mehr Macht erhalten, beispielsweise über eigene Finanzen und ein eigenes Militär verfügen.
+Gleichzeitig muss die EU demokratischer werden, das Europäische Parlament soll die zentrale Instanz der europäischen Legislative werden.
