@@ -1,5 +1,7 @@
 # Politische Vision
 
+Kommentare, Vorschläge, Meinungen, Kritik? An `kitilop [Punkt] github [At] gmail [Punkt] com` senden. Wird selten gelesen.
+
 ## Arbeit und Soziales
 
 ### Bedingungsloses Grundeinkommen
@@ -12,6 +14,14 @@ Dieses ersetzt sonstige Sozialleistungen wie Hartz-IV, Wohngeld oder BAföG, wod
 Harte Grenzen zwischen Minijob, Midijob und nicht geringfügiger Beschäftigung sollen abgeschafft werden.
 Steuern und Sozialabgaben sollen gemeinsam mit dem Gehalt ansteigen, ohne dass es harte Grenzen gibt.
 Es darf nicht passieren, dass bei höherem Bruttolohn der Nettolohn sinkt, weil beispielsweise eine Krankenversicherung notwendig wird.
+
+## Klima- und Umweltschutz
+
+### Subvention umweltfreundlicher Alternativen (neu!)
+
+Umweltfreundliche Alternativen sollen stärker subventioniert werden, sodass sie besser mit den Originalprodukten konkurrieren können und dadurch häufiger genutzt werden.
+Beispiele dafür sind E-Autos, E-Bikes, vegane Fleisch- oder Milchalternativen und kunststofffreie Verpackungen.
+Dadurch steigen die Verkaufszahlen, was die Produktionskosten senkt, wodurch die Alternativen von selbst konkurrenzfähiger werden.
 
 ## Gesundheit
 
@@ -126,6 +136,12 @@ Beides soll bei jeglicher Gewinnspielwerbung sowie bei der Gewinnspielteilnahme 
 
 Kaufhäuser und Geschäfte ab einer bestimmten Größe sollen Kundentoiletten kostenlos anbieten müssen.
 Dabei kann zunächst ein Entgelt gefordert werden, wenn dann ein Gutschein in entsprechender Höhe ausgegeben wird.
+
+### Verlängerung der Gewährleistung (neu!)
+
+Die aktuelle Gewährleistung für Neuwaren beträgt zwei Jahre.
+Insbesondere für teure Waren, z. B. Smartphones, Computer, Fahrzeuge, Möbel, sollte diese Frist verlängert werden.
+Dies schützt nicht nur Verbraucher, sondern auch die Umwelt.
 
 ## Justiz
 
