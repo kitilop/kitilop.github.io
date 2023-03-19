@@ -17,11 +17,23 @@ Eine Erhöhung des Bruttoeinkommens darf nicht zu einem Rückgang des Nettolohns
 
 ## Klima- und Umweltschutz
 
+### CO<sub>2</sub>-Steuer und -Dividende (neu!)
+
+Eine regelmäßige, schrittweise Erhöhung der CO<sub>2</sub>-Steuer würde dazu beitragen, den Verbrauch fossiler Brennstoffe zu verringern und das Klima zu schützen.
+Um soziale Ungerechtigkeit zu verringern, sollen die Einnahmen aus der Abgabe zurück an die Bürger fließen.
+Dabei erhält jeder Bürger den gleichen Anteil, wer also überdurchschnittlich viel CO<sub>2</sub> verbraucht, zahlt mehr CO<sub>2</sub>-Steuer als er als Dividende zurückbekommt.
+Da CO<sub>2</sub> so einen Preis bekommt, werden umweltfreundliche Alternativen wettbewerbsfähiger.
+
 ### Subvention umweltfreundlicher Alternativen
 
 Es soll eine verstärkte Subventionierung von umweltfreundlichen Alternativen erfolgen, um ihre Wettbewerbsfähigkeit gegenüber herkömmlichen Produkten zu verbessern und ihre Verwendung zu fördern.
 Hierzu zählen zum Beispiel Elektroautos, E-Bikes, vegane Fleisch- und Milchersatzprodukte sowie kunststofffreie Verpackungen.
 Dadurch steigen die Verkaufszahlen, was die Produktionskosten senkt, wodurch die Alternativen von selbst konkurrenzfähiger werden.
+
+### Finanzierung des Recyclings durch Hersteller (neu!)
+
+Produzenten sollen für das Recycling der Verpackungen ihrer Produkte bezahlen.
+Hierbei müssen realistische Preise gewählt werden, die sich je nach Aufwand des Recyclings unterscheiden
 
 ## Gesundheit
 
@@ -104,6 +116,11 @@ Dies sorgt für ein Dilemma: Sind die Studienergebnisse negativ, werden zukünft
 Um die Unabhängigkeit solcher Studien zu gewährleisten, soll zukünftig eine unabhängige Instanz die Vergabe übernehmen.
 Die Kosten muss weiterhin der Hersteller tragen.
 
+### Automatische Entschädigungen bei Verspätungen und Ausfällen (neu!)
+
+Haben Verbraucher regelmäßig Anspruch auf Entschädigung, wie beispielsweise bei Flug-, Bahn-, oder Internetausfällen, sollen diese automatisch ausgezahlt werden.
+So können die Verbraucher zeitnah und effektiv entschädigt werden, ohne dass sie den bürokratischen Aufwand einer manuellen Anfrage auf sich nehmen müssen.
+
 ### Kontakt-E-Mail-Pflicht
 
 Websites, über die Kunden Waren oder Dienstleistungen kaufen können, müssen gut sichtbar eine E-Mail-Adresse angeben, über die Kunden beispielsweise Widersprüche einreichen und Garantie-/Gewährleistungsansprüche übermitteln können.
@@ -123,6 +140,21 @@ Sowohl das Verkaufen als auch das Erstellen von gefälschten Nutzerbewertungen, 
 
 Staatliche Kontrollen in der Lebensmittelindustrie und in der Gastronomie sollen verschärft und häufiger durchgeführt werden.
 Ergebnisse dieser Kontrollen sollen öffentlich zugänglich sein.
+
+### Kennzeichnungspflicht für Aromen und Hilfsstoffe (neu!)
+
+Lebensmittelhersteller müssen verpflichtet werden, alle verwendeten Aromen auf der Verpackung genau zu benennen, um Transparenz und Nachvollziehbarkeit für Verbraucher zu gewährleisten.
+Zudem sollen Hilfsstoffe aufgelistet werden, selbst wenn diese nur temporär zur Verarbeitung verwendet wurden und nicht mehr im Endprodukt nachweisbar sind.
+
+### Zutaten bei Alkoholika (neu!)
+
+Bei vielen alkoholischen Getränken müssen Zutaten nicht angegeben werden.
+Zur besseren Transparenz sollen hier die gleichen Regeln wie für sonstige Lebensmittel gelten.
+
+### Transparente Preisangaben bei Lebensmitteln (neu!)
+
+Um den Verbrauchern eine bessere Orientierung bei der Wahl von Lebensmitteln zu ermöglichen, sollte der Preis pro 100 g genauso groß dargestellt werden wie der Gesamtpreis.
+Dies würde den Preisvergleich von verschiedenen Produkten vereinfachen.
 
 ### Erwartungswert bei Gewinnspielen
 
