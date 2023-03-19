@@ -7,38 +7,38 @@ Kommentare, Vorschläge, Meinungen, Kritik? An `kitilop [Punkt] github [At] gmai
 ### Bedingungsloses Grundeinkommen
 
 Ein Grundeinkommen soll eingeführt werden, das unabhängig vom Berufsstatus ausgezahlt wird.
-Dieses ersetzt sonstige Sozialleistungen wie Hartz-IV, Wohngeld oder BAföG, wodurch enormer Verwaltungsaufwand entfällt.
+Dieses Grundeinkommen würde andere Sozialleistungen wie Hartz-IV, Wohngeld oder BAföG ersetzen und somit einen erheblichen Verwaltungsaufwand einsparen.
 
 ### Sonderbehandlung von geringfügiger Beschäftigung abschaffen
 
-Harte Grenzen zwischen Minijob, Midijob und nicht geringfügiger Beschäftigung sollen abgeschafft werden.
-Steuern und Sozialabgaben sollen gemeinsam mit dem Gehalt ansteigen, ohne dass es harte Grenzen gibt.
-Es darf nicht passieren, dass bei höherem Bruttolohn der Nettolohn sinkt, weil beispielsweise eine Krankenversicherung notwendig wird.
+Die Unterscheidung zwischen Minijobs, Midijobs und regulären Beschäftigungen sollte abgeschafft werden, um harte Grenzen zu vermeiden.
+Stattdessen sollten Steuern und Sozialabgaben proportional zum Einkommen ansteigen, ohne starre Grenzen zu berücksichtigen.
+Eine Erhöhung des Bruttoeinkommens darf nicht zu einem Rückgang des Nettolohns führen, beispielsweise durch den Zwang, eine Krankenversicherung abzuschließen.
 
 ## Klima- und Umweltschutz
 
-### Subvention umweltfreundlicher Alternativen (neu!)
+### Subvention umweltfreundlicher Alternativen
 
-Umweltfreundliche Alternativen sollen stärker subventioniert werden, sodass sie besser mit den Originalprodukten konkurrieren können und dadurch häufiger genutzt werden.
-Beispiele dafür sind E-Autos, E-Bikes, vegane Fleisch- oder Milchalternativen und kunststofffreie Verpackungen.
+Es soll eine verstärkte Subventionierung von umweltfreundlichen Alternativen erfolgen, um ihre Wettbewerbsfähigkeit gegenüber herkömmlichen Produkten zu verbessern und ihre Verwendung zu fördern.
+Hierzu zählen zum Beispiel Elektroautos, E-Bikes, vegane Fleisch- und Milchersatzprodukte sowie kunststofffreie Verpackungen.
 Dadurch steigen die Verkaufszahlen, was die Produktionskosten senkt, wodurch die Alternativen von selbst konkurrenzfähiger werden.
 
 ## Gesundheit
 
 ### Private Krankenkassen abschaffen
 
-Behandlungen sollen von der Krankheit und nicht vom Geld abhängen.
-Da private Krankenkassen oft mehr bezahlen, werden Privatversicherte schneller und besser behandelt.
-Wenn alle in den gleichen Topf einzahlen, können gesetzliche Krankenkassen insgesamt mehr Geld ausgeben, das Gesundheitssystem verliert dabei also keine Einnahmen.
+Behandlungen sollten von der Erkrankung und nicht von der finanziellen Situation des Patienten abhängen.
+Da private Krankenkassen oft mehr bezahlen, werden Privatversicherte schneller und mehr behandelt.
+Durch eine gemeinsame Finanzierung können die gesetzlichen Krankenversicherungen insgesamt mehr Geld ausgeben, das Gesundheitssystem verliert dabei also keine Einnahmen.
 Zusatzversicherungen sollen weiterhin möglich bleiben.
 
 ### Erste-Hilfe-Kurse 
 
-Erste Hilfe kann bei kritischen medizinischen Notfällen langfristige Schäden und Tod verhindern.
+Erste Hilfe kann bei medizinischen Notfällen langfristige Schäden und sogar den Tod verhindern.
 Bereits in der Schule sollen deswegen regelmäßig verpflichtende und kostenlose Erste-Hilfe-Kurse stattfinden.
 Auch nach Erhalt des Führerscheins müssen Erste-Hilfe-Kenntnisse regelmäßig aufgefrischt werden.
 
-### Anpassung des Leistungskatalogs der Krankenkassen
+### Anpassung des Leistungskatalogs der Krankenversicherungen
 
 Leistungen, deren Wirksamkeit nicht über den Placeboeffekt hinausgeht (bspw. Homöopathie), dürfen nicht von Krankenkassen übernommen werden.
 Gleichzeitig soll der Zuschuss, den Krankenkassen für Brillen zahlen, erhöht werden und bereits bei geringeren Sehstärken gezahlt werden.
@@ -46,38 +46,35 @@ Gleichzeitig soll der Zuschuss, den Krankenkassen für Brillen zahlen, erhöht w
 ### Ganzjährige Normalzeit
 
 Die Zeitumstellung muss abgeschafft werden, da sie kaum positive, jedoch viele negative Effekte hat.
-Die Normalzeit / Winterzeit / Mitteleuropäische Zeit ist dabei der Sommerzeit / Osteuropäischen Zeit vorzuziehen, da erstere besser auf den Sonnenstand abgestimmt ist und damit der inneren Uhr des Menschen besser entspricht.
+Die Normalzeit / Winterzeit / Mitteleuropäische Zeit ist dabei der Sommerzeit / Osteuropäischen Zeit vorzuziehen, da sie besser auf den Sonnenstand abgestimmt ist und somit der inneren Uhr des Menschen entspricht.
 
-### Beschneidungen von Kindern verbieten
+### Verbot von Beschneidungen von Kindern
 
 Die Beschneidung aus religiösen Gründen verletzt das Recht auf körperliche Unversehrtheit des Kindes.
-Eine unumkehrbare Verstümmelung des Kindes wird nicht durch die Religion der Eltern gerechtfertigt.
+Eine unumkehrbare Verstümmelung des Kindes kann nicht durch die religiösen Überzeugungen der Eltern gerechtfertigt werden.
 
 ## Schule und Bildung
 
-### Bildung als Zuständigkeit des Bundes
+### Bildung als Bundessache
 
-Schulen und Universitäten sind überwiegend Ländersache.
-Dies führt zu teilweise signifikanten Unterschieden zwischen den Ländern.
-Damit die Bildungschancen unabhängig von den Ländern für alle gleich sind, soll Bildung Sache des Bundes sein.
+Schulen und Universitäten sind überwiegend Ländersache, was zu teilweise signifikanten Unterschieden zwischen den Ländern führt.
+Die Zuständigkeit für Bildung sollte auf Bundesebene liegen, um eine einheitliche Qualität und Chancengleichheit in der Bildung zu gewährleisten.
 
-### Kostenloses Schulessen
+### Kostenlose Schulverpflegung
 
 Kein Kind darf hungern.
 Deswegen soll in allen Schulen gesundes und hochwertiges Mittagessen kostenlos angeboten werden.
-Mehrere Gerichte und Beilagen stehen dabei zur Auswahl, insbesondere sollte es immer ein vegetarisches/veganes Gericht und ein Allergen-armes Gericht geben.
-Wasserspender sind ebenfalls aufzustellen.
+Dabei sollen mehrere Gerichte und Beilagen zur Auswahl stehen, einschließlich eines vegetarischen/veganen Gerichts und eines Allergen-armen Gerichts. Wasserspender sollen ebenfalls zur Verfügung gestellt werden.
 
 ### Ethik- oder Philosophie- statt Religionsunterricht
 
-Unterrichtet werden soll nur, was wissenschaftlich anerkannt ist.
-Unterricht, der Glaubenslehren als Fakten darstellt, ist deswegen abzuschaffen.
-Stattdessen gibt es einen gemeinsamen Ethik- oder Philosophieunterricht, in dem unter anderem die größten Weltreligionen neutral behandelt werden.
+Es darf nur wissenschaftlich anerkanntes Wissen im Unterricht vermittelt werden.
+Aus diesem Grund muss Religionsunterricht, der Glaubenslehren als Fakten präsentiert, abgeschafft werden.
+Stattdessen sollen Ethik- oder Philosophieunterricht angeboten werden, in dem auch die größten Weltreligionen neutral behandelt werden.
 
 ### Deutschlandweite Schulprüfungen
 
-Regelmäßig sollen deutschlandweit Schulprüfungen stattfinden.
-Dies sorgt für fairere Noten und erlaubt es, Abschlüsse miteinander zu vergleichen.
+Es sollen regelmäßig nationale Schulprüfungen durchgeführt werden, um faire Bewertungen zu gewährleisten und Abschlüsse vergleichbarer zu machen.
 
 ## Verkehr
 
@@ -98,7 +95,7 @@ Ein Tempolimit sorgt für umweltfreundlicheres, sichereres, leiseres und entspan
 
 Internetnutzer werden permanent digital verfolgt, um Interessenprofile anzulegen, über die zielgerichtet Werbung angezeigt werden kann.
 Die Daten, die dabei anfallen, verletzen die Privatsphäre in höchstem Maße.
-Websiteübergreifendes Tracking zur Erstellung von Werbeprofilen muss deswegen abgeschafft werden.
+Websiteübergreifendes Tracking zur Erstellung von Werbeprofilen muss deswegen verboten werden.
 
 ### Unabhängige Vergabe von Produktstudien
 
@@ -112,7 +109,7 @@ Die Kosten muss weiterhin der Hersteller tragen.
 Websites, über die Kunden Waren oder Dienstleistungen kaufen können, müssen gut sichtbar eine E-Mail-Adresse angeben, über die Kunden beispielsweise Widersprüche einreichen und Garantie-/Gewährleistungsansprüche übermitteln können.
 Dadurch kann der Kontakt außerhalb von üblichen Arbeitszeiten aufgenommen werden, alle Absprachen liegen schriftlich vor und Warteschleifen werden vermeiden.
 
-### Keine Verschleierung der Gesamtkosten
+### Verschleierung der Gesamtkosten in Werbung
 
 Weder beim Kauf noch bei der Werbung dürfen wesentliche Informationen über den Preis eines Produkts im Kleingedruckten versteckt werden.
 Ein Smartphone darf beispielsweise nicht mit einem Kaufpreis von einem Euro beworben werden, wenn ein kostenpflichtiger Vertrag abgeschlossen werden muss.
@@ -120,7 +117,7 @@ Ein Internetvertrag darf nicht mit monatlichen Kosten von 10 € beworben werden
 
 ### Gefälschte Bewertungen
 
-Sowohl das Verkaufen als auch das Erstellen von gefälschten Bewertungen, beispielsweise auf Online-Verkaufsplattformen, soll verboten werden.
+Sowohl das Verkaufen als auch das Erstellen von gefälschten Nutzerbewertungen, beispielsweise auf Online-Verkaufsplattformen, soll verboten werden.
 
 ### Häufige Lebensmittelkontrollen
 
@@ -132,12 +129,12 @@ Ergebnisse dieser Kontrollen sollen öffentlich zugänglich sein.
 Bei Gewinnspielen soll neben der Chance auf den Hauptgewinn auch der durchschnittliche Verlust pro Spiel erkenntlich sein.
 Beides soll bei jeglicher Gewinnspielwerbung sowie bei der Gewinnspielteilnahme klar kommuniziert werden.
 
-### Kundentoiletten (neu!)
+### Kundentoiletten
 
 Kaufhäuser und Geschäfte ab einer bestimmten Größe sollen Kundentoiletten kostenlos anbieten müssen.
 Dabei kann zunächst ein Entgelt gefordert werden, wenn dann ein Gutschein in entsprechender Höhe ausgegeben wird.
 
-### Verlängerung der Gewährleistung (neu!)
+### Verlängerung der Gewährleistung
 
 Die aktuelle Gewährleistung für Neuwaren beträgt zwei Jahre.
 Insbesondere für teure Waren, z. B. Smartphones, Computer, Fahrzeuge, Möbel, sollte diese Frist verlängert werden.
@@ -170,26 +167,26 @@ Gesetzen, die es ermöglichen, dass Polizei oder Geheimdienste die Rechte von Me
 Es sollen Statistiken darüber geführt werden, wie effektiv solche Gesetze sind.
 Regelmäßig müssen ineffektive Polizei- und Überwachungsgesetze abgeschafft werden.
 
-### Dashcams für Rettungskräfte (neu!)
+### Dashcams für Rettungskräfte
 
 Zum Schutz von Rettungskräften und zur Verfolgung von rechtswidrigem Verhalten sollen Rettungsfahrzeuge grundsätzlich mit Dashcams ausgestattet werden.
 Nach Einsätzen werden die Aufzeichnungen von geschultem Personal überprüft.
 Dadurch können Vergehen wie beispielsweise das Nichtbilden oder Befahren einer Rettungsgasse, die Behinderung von Rettungskräften oder das Fotografieren von Unfallopfern schnell und effizient geahndet werden.
 
-### Bußgeld gehaltsabhängig (neu!)
+### Bußgeld gehaltsabhängig
 
 Wenn die Strafe für ein Vergehen ein Bußgeld ist, gilt das Gesetz nur für arme Menschen.
 Um dies zu verhindern, sollen Bußgelder von Eigentum und Einkommen abhängig sein.
 
 ## Digitales
 
-### Staatliche Software (neu!)
+### Staatliche Software
 
-Software, die der Staat einsetzt, soll in der Regel quelloffen (Open Source) sein, wie es beispielsweise bei der Corona-Warn-App der Fall ist.
-Dies schafft Vertrauen, da Prozesse offen gelegt werden.
-Da viele den Quellcode unabhängig überprüfen können, wird staatliche Software sicherer.
+Der Staat sollte in der Regel quelloffene (Open-Source-)Software einsetzen, wie es bei der Corona-Warn-App bereits der Fall ist.
+Dadurch werden Prozesse offengelegt und das Vertrauen in staatliche Software gestärkt.
+Durch die Möglichkeit für viele Personen, den Quellcode unabhängig zu überprüfen, kann die Sicherheit von staatlicher Software verbessert werden.
 
-### Digitale Behörden (neu!)
+### Digitale Behörden
 
 Abläufe in Behörden sollen so digital wie möglich gestaltet werden.
 Dadurch können Prozesse schneller, effizienter und günstiger durchgeführt werden.
@@ -198,20 +195,20 @@ Statt Fax sollen verschlüsselte und signierte E-Mails eingesetzt werden.
 
 ## Politik
 
-### Ersatzstimme (neu!)
+### Ersatzstimme
 
 Stimmen, die für Kleinparteien abgegeben werden, gehen verloren, wenn die Partei an der 5%-Hürde scheitert.
 Eine Ersatzstimme würde Abhilfe schaffen können: Wenn die Hauptstimme eine Partei ist, die die 5%-Hürde nicht erreicht, so geht die Stimme an die Ersatzstimme.
 So werden Wähler besser repräsentiert, die eigentlich eine Kleinpartei favorisieren.
 
-### Wahlcomputer (neu!)
+### Wahlcomputer
 
 Zur einfachen und schnellen Auszählung von Wahlen sollen Wahlcomputer eingesetzt werden.
 Um Stimmenfälschungen zu vermeiden, soll nach Stimmabgabe ein Wahlzettel ausgedruckt werden, den der Wähler überprüfen und in die Wahlurne geben muss.
 Erst dann ist die Wahl gültig.
 Dadurch können komplexere Wahlverfahren schneller und weniger fehleranfällig ausgewertet werden.
 
-### Verbesserung der EU (neu!)
+### Verbesserung der EU
 
 Die EU soll mehr Macht erhalten, beispielsweise über eigene Finanzen und ein eigenes Militär verfügen.
 Gleichzeitig muss die EU demokratischer werden, das Europäische Parlament soll die zentrale Instanz der europäischen Legislative werden.
