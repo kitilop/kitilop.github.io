@@ -17,7 +17,7 @@ Eine Erhöhung des Bruttoeinkommens darf nicht zu einem Rückgang des Nettolohns
 
 ## Klima- und Umweltschutz
 
-### CO<sub>2</sub>-Steuer und -Dividende (neu!)
+### CO<sub>2</sub>-Steuer und -Dividende
 
 Eine regelmäßige, schrittweise Erhöhung der CO<sub>2</sub>-Steuer würde dazu beitragen, den Verbrauch fossiler Brennstoffe zu verringern und das Klima zu schützen.
 Um soziale Ungerechtigkeit zu verringern, sollen die Einnahmen aus der Abgabe zurück an die Bürger fließen.
@@ -30,10 +30,10 @@ Es soll eine verstärkte Subventionierung von umweltfreundlichen Alternativen er
 Hierzu zählen zum Beispiel Elektroautos, E-Bikes, vegane Fleisch- und Milchersatzprodukte sowie kunststofffreie Verpackungen.
 Dadurch steigen die Verkaufszahlen, was die Produktionskosten senkt, wodurch die Alternativen von selbst konkurrenzfähiger werden.
 
-### Finanzierung des Recyclings durch Hersteller (neu!)
+### Finanzierung des Recyclings durch Hersteller
 
 Produzenten sollen für das Recycling der Verpackungen ihrer Produkte bezahlen.
-Hierbei müssen realistische Preise gewählt werden, die sich je nach Aufwand des Recyclings unterscheiden
+Hierbei müssen realistische Preise gewählt werden, die sich je nach Aufwand des Recyclings unterscheiden.
 
 ## Gesundheit
 
@@ -116,7 +116,7 @@ Dies sorgt für ein Dilemma: Sind die Studienergebnisse negativ, werden zukünft
 Um die Unabhängigkeit solcher Studien zu gewährleisten, soll zukünftig eine unabhängige Instanz die Vergabe übernehmen.
 Die Kosten muss weiterhin der Hersteller tragen.
 
-### Automatische Entschädigungen bei Verspätungen und Ausfällen (neu!)
+### Automatische Entschädigungen bei Verspätungen und Ausfällen
 
 Haben Verbraucher regelmäßig Anspruch auf Entschädigung, wie beispielsweise bei Flug-, Bahn-, oder Internetausfällen, sollen diese automatisch ausgezahlt werden.
 So können die Verbraucher zeitnah und effektiv entschädigt werden, ohne dass sie den bürokratischen Aufwand einer manuellen Anfrage auf sich nehmen müssen.
@@ -141,17 +141,17 @@ Sowohl das Verkaufen als auch das Erstellen von gefälschten Nutzerbewertungen, 
 Staatliche Kontrollen in der Lebensmittelindustrie und in der Gastronomie sollen verschärft und häufiger durchgeführt werden.
 Ergebnisse dieser Kontrollen sollen öffentlich zugänglich sein.
 
-### Kennzeichnungspflicht für Aromen und Hilfsstoffe (neu!)
+### Kennzeichnungspflicht für Aromen und Hilfsstoffe
 
 Lebensmittelhersteller müssen verpflichtet werden, alle verwendeten Aromen auf der Verpackung genau zu benennen, um Transparenz und Nachvollziehbarkeit für Verbraucher zu gewährleisten.
 Zudem sollen Hilfsstoffe aufgelistet werden, selbst wenn diese nur temporär zur Verarbeitung verwendet wurden und nicht mehr im Endprodukt nachweisbar sind.
 
-### Zutaten bei Alkoholika (neu!)
+### Zutaten bei Alkoholika
 
 Bei vielen alkoholischen Getränken müssen Zutaten nicht angegeben werden.
 Zur besseren Transparenz sollen hier die gleichen Regeln wie für sonstige Lebensmittel gelten.
 
-### Transparente Preisangaben bei Lebensmitteln (neu!)
+### Transparente Preisangaben bei Lebensmitteln
 
 Um den Verbrauchern eine bessere Orientierung bei der Wahl von Lebensmitteln zu ermöglichen, sollte der Preis pro 100 g genauso groß dargestellt werden wie der Gesamtpreis.
 Dies würde den Preisvergleich von verschiedenen Produkten vereinfachen.
@@ -163,8 +163,8 @@ Beides soll bei jeglicher Gewinnspielwerbung sowie bei der Gewinnspielteilnahme 
 
 ### Kundentoiletten
 
-Kaufhäuser und Geschäfte ab einer bestimmten Größe sollen Kundentoiletten kostenlos anbieten müssen.
-Dabei kann zunächst ein Entgelt gefordert werden, wenn dann ein Gutschein in entsprechender Höhe ausgegeben wird.
+Kaufhäuser und Geschäfte ab einer bestimmten Größe müssen Kundentoiletten kostenlos anbieten.
+Dabei kann zunächst ein Entgelt gefordert werden, wenn dann ein Gutschein in entsprechender Höhe ausgegeben wird, welcher beliebig anstelle von Geld zur Bezahlung verwendet werden kann.
 
 ### Verlängerung der Gewährleistung
 
@@ -230,7 +230,7 @@ Statt Fax sollen verschlüsselte und signierte E-Mails eingesetzt werden.
 ### Ersatzstimme
 
 Stimmen, die für Kleinparteien abgegeben werden, gehen verloren, wenn die Partei an der 5%-Hürde scheitert.
-Eine Ersatzstimme würde Abhilfe schaffen können: Wenn die Hauptstimme eine Partei ist, die die 5%-Hürde nicht erreicht, so geht die Stimme an die Ersatzstimme.
+Eine Ersatzstimme würde Abhilfe schaffen: Wenn mit der Hauptstimme eine Partei ausgewählt wurde, die die 5%-Hürde nicht erreicht, so geht die Stimme an die Ersatzstimme.
 So werden Wähler besser repräsentiert, die eigentlich eine Kleinpartei favorisieren.
 
 ### Wahlcomputer
