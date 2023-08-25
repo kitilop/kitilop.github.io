@@ -8,12 +8,24 @@ Kommentare, Vorschläge, Meinungen, Kritik? An `kitilop [Punkt] github [At] gmai
 
 Ein Grundeinkommen soll eingeführt werden, das unabhängig vom Berufsstatus ausgezahlt wird.
 Dieses Grundeinkommen würde andere Sozialleistungen wie Hartz-IV, Wohngeld oder BAföG ersetzen und somit einen erheblichen Verwaltungsaufwand einsparen.
+Das Grundeinkommen soll dabei die Grundbedürfnisse abdecken.
 
-### Sonderbehandlung von geringfügiger Beschäftigung abschaffen
+### Mehr Brutto, mehr Netto
 
-Die Unterscheidung zwischen Minijobs, Midijobs und regulären Beschäftigungen sollte abgeschafft werden, um harte Grenzen zu vermeiden.
-Stattdessen sollten Steuern und Sozialabgaben proportional zum Einkommen ansteigen, ohne starre Grenzen zu berücksichtigen.
-Eine Erhöhung des Bruttoeinkommens darf nicht zu einem Rückgang des Nettolohns führen, beispielsweise durch den Zwang, eine Krankenversicherung abzuschließen.
+Eine Erhöhung des Bruttoeinkommens darf nicht zu einem Rückgang des Nettolohns führen.
+Die Unterscheidung zwischen Minijobs, Midijobs und regulären Beschäftigungen sollte abgeschafft werden, um starre Grenzen zu vermeiden.
+Stattdessen sollten Steuern und Sozialabgaben proportional zum Einkommen ansteigen.
+
+### Inflationsausgleich (neu!)
+
+Lohn und Gehalt sollen an den Verbraucherpreisindex gekoppelt werden, sodass eine Inflation nicht zu einer Minderung des Realohns führt.
+Gleiches sollte auch für andere Eckwerte gelten, um zum Beispiel kalte Progression zu verhindern.
+
+### Senkung der Arbeitszeit (neu!)
+
+Die Wochenarbeitszeit soll schrittweise verringert werden um die Lebensqualität zu steigern.
+Ausnahmen von der Beschränkung der täglichen Arbeitszeit sollen stärker reguliert werden, insbesondere auch die Kombination mit Rufbereitschaft ohne Ruhepausen.
+Verpflichtende Pausenzeiten müssen als Arbeitszeit gelten und sollen entsprechend bezahlt werden.
 
 ## Klima- und Umweltschutz
 
@@ -34,6 +46,18 @@ Dadurch steigen die Verkaufszahlen, was die Produktionskosten senkt, wodurch die
 
 Produzenten sollen für das Recycling der Verpackungen ihrer Produkte bezahlen.
 Hierbei müssen realistische Preise gewählt werden, die sich je nach Aufwand des Recyclings unterscheiden.
+
+### Aufdrucke zur Mülltrennung (neu!)
+
+Die Mülltrennung muss deutschlandweit vereinheitlicht werden, sodass es keine kommunalen Unterschiede mehr gibt.
+Dann kann auf Verpackungen klar gekennzeichnet werden, wie diese zu entsorgen sind.
+
+### Mehr Mehrwegverpackungen mit Pfandsystem (neu!)
+
+Das Mehrweg-Pfandsystem soll weiter ausgebaut werden.
+Getränke wie Fruchtsäfte, Wein und Spirituosen sollen nicht vom Pfandsystem ausgenommen werden, gleichzeitig können weitere Produkte in das Mehrwegsystem aufgenommen werden.
+Beispiele wären Trockenprodukte wie Mehl, Reis oder Linsen sowie Lebensmittel, die üblicherweise in Dosen verkauft werden.
+Hier ist eine Standardisierung der Verpackungen notwendig, damit diese austauschbar sind und nicht sortiert und über weite Strecken transportiert werden müssen.
 
 ## Gesundheit
 
