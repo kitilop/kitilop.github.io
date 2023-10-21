@@ -14,14 +14,14 @@ Das Grundeinkommen soll dabei die Grundbedürfnisse abdecken.
 
 Eine Erhöhung des Bruttoeinkommens darf nicht zu einem Rückgang des Nettolohns führen.
 Die Unterscheidung zwischen Minijobs, Midijobs und regulären Beschäftigungen sollte abgeschafft werden, um starre Grenzen zu vermeiden.
-Stattdessen sollten Steuern und Sozialabgaben proportional zum Einkommen ansteigen.
+Stattdessen sollten Steuern und Sozialabgaben fließend mit dem Einkommen ansteigen.
 
-### Inflationsausgleich (neu!)
+### Inflationsausgleich
 
 Lohn und Gehalt sollen an den Verbraucherpreisindex gekoppelt werden, sodass eine Inflation nicht zu einer Minderung des Realohns führt.
 Gleiches sollte auch für andere Eckwerte gelten, um zum Beispiel kalte Progression zu verhindern.
 
-### Senkung der Arbeitszeit (neu!)
+### Senkung der Arbeitszeit
 
 Die Wochenarbeitszeit soll schrittweise verringert werden um die Lebensqualität zu steigern.
 Ausnahmen von der Beschränkung der täglichen Arbeitszeit sollen stärker reguliert werden, insbesondere auch die Kombination mit Rufbereitschaft ohne Ruhepausen.
@@ -47,12 +47,12 @@ Dadurch steigen die Verkaufszahlen, was die Produktionskosten senkt, wodurch die
 Produzenten sollen für das Recycling der Verpackungen ihrer Produkte bezahlen.
 Hierbei müssen realistische Preise gewählt werden, die sich je nach Aufwand des Recyclings unterscheiden.
 
-### Aufdrucke zur Mülltrennung (neu!)
+### Aufdrucke zur Mülltrennung
 
 Die Mülltrennung muss deutschlandweit vereinheitlicht werden, sodass es keine kommunalen Unterschiede mehr gibt.
 Dann kann auf Verpackungen klar gekennzeichnet werden, wie diese zu entsorgen sind.
 
-### Mehr Mehrwegverpackungen mit Pfandsystem (neu!)
+### Mehr Mehrwegverpackungen mit Pfandsystem
 
 Das Mehrweg-Pfandsystem soll weiter ausgebaut werden.
 Getränke wie Fruchtsäfte, Wein und Spirituosen sollen nicht vom Pfandsystem ausgenommen werden, gleichzeitig können weitere Produkte in das Mehrwegsystem aufgenommen werden.
@@ -67,6 +67,10 @@ Behandlungen sollten von der Erkrankung und nicht von der finanziellen Situation
 Da private Krankenkassen oft mehr bezahlen, werden Privatversicherte schneller und mehr behandelt.
 Durch eine gemeinsame Finanzierung können die gesetzlichen Krankenversicherungen insgesamt mehr Geld ausgeben, das Gesundheitssystem verliert dabei also keine Einnahmen.
 Zusatzversicherungen sollen weiterhin möglich bleiben.
+
+### Vergütung für niedergelassene Ärzte (neu!)
+
+Gesamtbudgets und Obergrenzen, die dafür sorgen, dass Ärzte am Quartalsende unbezahlt Leistungen erbringen oder Behandlungen ins nächste Quartal verschieben, müssen angepasst werden.
 
 ### Erste-Hilfe-Kurse 
 
@@ -112,6 +116,11 @@ Stattdessen sollen Ethik- oder Philosophieunterricht angeboten werden, in dem au
 
 Es sollen regelmäßig nationale Schulprüfungen durchgeführt werden, um faire Bewertungen zu gewährleisten und Abschlüsse vergleichbarer zu machen.
 
+### Fehlende Deutschkenntnisse (neu!)
+
+Eine funktionierende Kommunikation ist eine Voraussetzung für schulisches Lernen und damit wesentlich für gleiche Bildungschancen.
+Kinder, die ein Jahr vor der Einschulung nicht über ausreichende Deutschkenntnisse verfügen, sollen in vorschulischen Einrichtungen Deutsch lernen.
+
 ## Verkehr
 
 ### Kostenloser/kostengünstiger ÖPNV
@@ -127,7 +136,7 @@ Ein Tempolimit sorgt für umweltfreundlicheres, sichereres, leiseres und entspan
 
 ## Verbraucherschutz
 
-### Personalisierte Werbung verbieten
+### Personalisierte Werbung
 
 Internetnutzer werden permanent digital verfolgt, um Interessenprofile anzulegen, über die zielgerichtet Werbung angezeigt werden kann.
 Die Daten, die dabei anfallen, verletzen die Privatsphäre in höchstem Maße.
@@ -180,6 +189,11 @@ Zur besseren Transparenz sollen hier die gleichen Regeln wie für sonstige Leben
 Um den Verbrauchern eine bessere Orientierung bei der Wahl von Lebensmitteln zu ermöglichen, sollte der Preis pro 100 g genauso groß dargestellt werden wie der Gesamtpreis.
 Dies würde den Preisvergleich von verschiedenen Produkten vereinfachen.
 
+### Einheitliche Verpackungsgrößen (neu!)
+
+Statt Preise zu erhöhen, reduzieren Hersteller oft die Füllmenge einer Verpackung, da dies  dies vom Verbraucher weniger wahrgenommen wird.
+Um dies zu verhindern und um die Vergleichbarkeit von Produkten verschiedener Hersteller zu erhöhen, sollen standardisierte Packungsgrößen verbindlich vorgeschrieben werden.
+
 ### Erwartungswert bei Gewinnspielen
 
 Bei Gewinnspielen soll neben der Chance auf den Hauptgewinn auch der durchschnittliche Verlust pro Spiel erkenntlich sein.
@@ -223,6 +237,12 @@ Gesetzen, die es ermöglichen, dass Polizei oder Geheimdienste die Rechte von Me
 Es sollen Statistiken darüber geführt werden, wie effektiv solche Gesetze sind.
 Regelmäßig müssen ineffektive Polizei- und Überwachungsgesetze abgeschafft werden.
 
+### Desinformation (neu!)
+
+Die Veröffentlichung von Falschinformationen mit Täuschungsabsicht muss strafbar werden.
+Auch das gezielte Weglassen relevanter Informationen darf nicht erlaubt sein.
+Personen oder Institutionen mit großer Öffentlichkeitswirkung, einschließlich Politiker und Medien, müssen zu besonderer Sorgfalt verpflichtet werden.
+
 ### Dashcams für Rettungskräfte
 
 Zum Schutz von Rettungskräften und zur Verfolgung von rechtswidrigem Verhalten sollen Rettungsfahrzeuge grundsätzlich mit Dashcams ausgestattet werden.
@@ -233,6 +253,18 @@ Dadurch können Vergehen wie beispielsweise das Nichtbilden oder Befahren einer 
 
 Wenn die Strafe für ein Vergehen ein Bußgeld ist, gilt das Gesetz nur für arme Menschen.
 Um dies zu verhindern, sollen Bußgelder von Eigentum und Einkommen abhängig sein.
+
+### Sozialstunden bei Tagessatzdeckelung (neu!)
+
+Geldstrafen werden nach Tagessätzen bemessen, um Menschen mit unterschiedlichem Einkommen ähnlich stark zu bestrafen.
+Der Tagessatz ist jedoch gedeckelt, sodass Menschen mit sehr hohem Einkommen wieder weniger hart bestraft werden.
+Deswegen sollen Geldstrafen oberhalb der Tagessatzdeckelung durch gemeinnützige Arbeit ersetzt werden.
+
+### Sozialstunden statt Ersatzfreiheitsstrafe (neu!)
+
+Wird ein verhängtes Bußgeld oder eine Geldstrafe nicht bezahlt, können Menschen zu Ersatzhaft verurteilt werden.
+Dies verursacht hohe Kosten für den Staat, da insbesondere die Bußgelder oft in einem groben Missverhältnis zu den Kosten einer Haftunterbringung stehen.
+Gemeinnützige Arbeit ist daher eine sinnvolle Alternative.
 
 ## Digitales
 
