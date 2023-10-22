@@ -27,6 +27,10 @@ Die Wochenarbeitszeit soll schrittweise verringert werden um die Lebensqualität
 Ausnahmen von der Beschränkung der täglichen Arbeitszeit sollen stärker reguliert werden, insbesondere auch die Kombination mit Rufbereitschaft ohne Ruhepausen.
 Verpflichtende Pausenzeiten müssen als Arbeitszeit gelten und sollen entsprechend bezahlt werden.
 
+### Gemeinsame Rente (neu!)
+
+Die an Stelle der Rente gezahlte Pension, z.B. für Beamte und andere öffentlich-rechtlich Bedienstete, soll abgeschafft werden, so dass alle Arbeitnehmer in den gleichen Rententopf einzahlen. 
+
 ## Klima- und Umweltschutz
 
 ### CO<sub>2</sub>-Steuer und -Dividende
@@ -133,6 +137,33 @@ Langstrecken sollen deutlich günstiger und deutlich flexibler sein.
 ### Tempolimit
 
 Ein Tempolimit sorgt für umweltfreundlicheres, sichereres, leiseres und entspannteres Fahren.
+
+## Wirtschaft
+
+### Bürokratieaufwand abbauen (neu!)
+
+Regelungen und Auflagen sind oft wichtig und sinnvoll begründet, allerdings sorgen diese für einen hohen Verwaltungsaufwand, der Kosten erhöht.
+Deswegen müssen Solche Prozesse abgeschafft, vereinfacht oder digitalisiert werden.
+
+### Staatliche Infrastruktur (neu!)
+
+Zentrale Infrastruktur muss keinen Gewinn bringen, wenn sie ein Dienst für die gesamte Gesellschaft ist.
+Dazu zählen beispielsweise Straßen und Schienen, die Versorgung mit Wasser, der Aufbau und die Instandhaltung des Strom- und Internetnetzes, sowie Krankenhäuser.
+Diese müssen deswegen auch nicht gewinnorientiert geführt werden, sondern sollten in staatlicher Hand bleiben bzw. in diese überführt werden.
+
+### Gentechnik (neu!)
+
+Neue Obst- und Gemüsesorten, die durch zufällige Mutation entstehen, dürfen ohne Weiteres verkauft werden.
+Für gentechnisch veränderte Pflanzen, bei denen gezielt einzelne Gene angepasst werden, gibt es hohe Hürden oder eine Nutzung ist gänzlich unmöglich.
+Letztes erlaubt eine viel spezifischere Veränderung von Nahrungsmitteln mit besser abschätzbaren Folgen und sollte deswegen nicht schlechter gestellt sein als mutierte Arten.
+Patente auf gentechnisch veränderte Pflanzen darf es dabei nicht geben.
+
+### Verbot von Trinkgeld (neu!)
+
+Der Arbeitgeber ist verantwortlich für eine faire Bezahlung seiner Mitarbeiter.
+Trinkgeld wälzt diese Verantwortung auf die Kunden ab und sorgt für mangelnde Planbarkeit des Einkommens.
+Ist eine gewisse Menge von Trinkgeld in einer Branche üblich, dann handelt es sich letztlich um einen unversteuerten, umsatzabhängigen Extralohn.
+Aus diesem Grund soll sowohl die Gabe als auch das Annehmen von Trinkgeld verboten werden.
 
 ## Verbraucherschutz
 
@@ -265,6 +296,12 @@ Deswegen sollen Geldstrafen oberhalb der Tagessatzdeckelung durch gemeinnützige
 Wird ein verhängtes Bußgeld oder eine Geldstrafe nicht bezahlt, können Menschen zu Ersatzhaft verurteilt werden.
 Dies verursacht hohe Kosten für den Staat, da insbesondere die Bußgelder oft in einem groben Missverhältnis zu den Kosten einer Haftunterbringung stehen.
 Gemeinnützige Arbeit ist daher eine sinnvolle Alternative.
+
+### Unternehmensrettung (neu!)
+
+Gerät ein Unternehmen in finanzielle Schieflage, hat aber eine wichtige Stellung in der deutschen Wirtschaft, springt in der Regel der Staat ein, um das Unternehmen zu retten.
+Dies hat zur Folge, dass Gewinne privatisiert, Verluste aber von der Gesellschaft getragen werden.
+Hier sollten im Einzelfall Maßnahmen wie eine vollständige oder anteilige Verstaatlichung, eine Zerschlagung, eine Abschöpfung zukünftiger oder auch vergangener Gewinne und Dividenden oder eine rückwirkende Einziehung von Gehältern und Boni der Entscheidungsträger geprüft werden.
 
 ## Digitales
 
